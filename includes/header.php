@@ -15,7 +15,7 @@
 
 
 
-<h2>Follow wach link to the page example</h2>
+<h2>Follow each link to the page example</h2>
 <ul class="nav nav-pills">
       <li class="nav-item"><a  class="nav-link"  href="index.php">Home </a></li> 
       <li class="nav-item"><a class="nav-link" href="ifstatement.php">Simple If Statememt </a></li> 
